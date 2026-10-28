@@ -1,0 +1,6 @@
+{
+  "name": "TalentMatch AI - Resume Screening & Role Matching",
+  "description": "AI-powered HR resume screening and job role matching system with TF-IDF cosine similarity, skill taxonomy extraction, blind screening privacy safeguards, candidate comparison, and downloadable Flask/SQLite project code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
